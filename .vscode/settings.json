@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "slp.h": "c",
+        "util.h": "c",
+        "assert.h": "c",
+        "prog1.h": "c",
+        "tree.h": "c"
+    },
+}
